@@ -8,7 +8,7 @@ An end-to-end exploratory data analysis of the Google Play Store — uncovering 
  
 | File | Description |
 |---|---|
-| `Playstore_data__1_.ipynb` | Main analysis notebook |
+| `Playstore_Data_Analysis.ipynb` | Main analysis notebook |
 | `Playstore_Cleaned.csv` | Cleaned dataset |
  
 ---
